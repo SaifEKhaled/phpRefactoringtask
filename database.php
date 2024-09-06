@@ -3,7 +3,7 @@ class Database {
     private $host = "localhost";
     private $db_name = "itiDBB";
     private $username = "root";
-    private $password = "CoolSSSafsof1511@";
+    private $password = "######";
     private $conn;
 
     public function getConnection(): ?PDO {
